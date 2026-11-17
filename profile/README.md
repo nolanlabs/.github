@@ -1,29 +1,12 @@
-<a href="https://nolanlabs.io/"><img src="banner.png" alt="nolanlabs — AI for post-production" width="100%"></a>
+<a href="https://nolanlabs.io/"><img src="banner.jpg" alt="nolanlabs: a video editor that edits with you" width="100%"></a>
 
-**nolanlabs is AI for post-production, starting with VFX shot work.** It paints out rigs, builds worlds, moves the sun, swaps props, fills battlefields and fixes performances — then hands every layer back to your comp. You make the creative calls.
+**nolanlabs is a video editor that edits with you.** Ask for a rough cut, a grade or a mix, and Nolan Edit, the agent built in, does it on your timeline. Its edits are outlined on the timeline as it works, each with its reason, and land as one step you can undo. On Mac (Apple silicon) and Windows.
 
-### Six use cases
+- **Nolan Edit comes with the app.** It runs on NolanX, the model nolanlabs runs: every account has 100 credits a month, and a plan holds more. Nothing else to install.
+- **Or bring your own agent.** Claude Code, Codex, Gemini CLI or any agent that speaks the Agent Client Protocol works on the same timeline, on your own account.
+- **Lite and Pro.** A simple editor for a quick video, and the full one with tracks, trim tools, node grading and delivery. Both open the same projects.
+- **Fits how you already cut.** Keys follow DaVinci Resolve, and projects travel as OTIO, FCPXML, EDL and AAF.
 
-- **[Cleanup](https://nolanlabs.io/use-cases/cleanup)** — Mark the wire, the rig, the crew. They’re painted out across the shot, and nothing else in the frame moves.
-- **[Environment](https://nolanlabs.io/use-cases/environment)** — A new background, a set that runs past its edge, a different century, another sky — behind the performance you shot.
-- **[Relighting](https://nolanlabs.io/use-cases/relighting)** — Change the hour, the direction and the color of the light, or match one shot to the next — the performance stays as shot.
-- **[Object editing](https://nolanlabs.io/use-cases/object-editing)** — Add, remove or replace props, costumes, vehicles and set details — tracked through the shot, with a matte for every change.
-- **[Crowd & scale](https://nolanlabs.io/use-cases/crowd-and-scale)** — Multiply the crowd you shot and build the rest of the world around it — battlefields, castles, stadiums, cities.
-- **[Performance assist](https://nolanlabs.io/use-cases/performance-assist)** — Nudge an eyeline, match lips to a new line, put the lead’s face on the stunt double — only with the performer’s consent.
+**[Download nolanlabs →](https://nolanlabs.io/download)**
 
-### Every job comes back as layers
-
-- **Only what you ask for changes.** Everything outside the edit region stays as shot. Whole-frame jobs like relighting say so before the run.
-- **You choose the version.** AI proposes; people decide. Nothing goes to a timeline or a client until someone picks it.
-- **Your footage stays yours.** Never used to train AI models — ours or anyone’s. Deleted when you ask.
-- **Faces only with consent.** Performance work runs only when the performers agreed in writing to that use.
-
-### Access
-
-Access to nolanlabs is by invitation, so the team can run your first shot with you. It starts with a 30-minute demo — on your own footage if you like.
-
-**[Request a demo →](https://nolanlabs.io/demo)**
-
-[nolanlabs.io](https://nolanlabs.io/) · [Use cases](https://nolanlabs.io/use-cases) · [Manifesto](https://nolanlabs.io/manifesto) · [Journal](https://nolanlabs.io/blog) · [hello@nolanlabs.io](mailto:hello@nolanlabs.io)
-
-<sub>AI does the work behind the shot. You decide what’s on screen.</sub>
+[nolanlabs.io](https://nolanlabs.io/) · [Docs](https://nolanlabs.io/docs) · [Pricing](https://nolanlabs.io/pricing) · [Changelog](https://nolanlabs.io/changelog) · [hello@nolanlabs.io](mailto:hello@nolanlabs.io)
